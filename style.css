@@ -1,8 +1,32 @@
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 #cabecalho {
-    position: fixed;
-    top: 0;
+  border: 1px solid red;
+  position: fixed;
+  top: 0;
+
+}
+
+main {
+  border: 1px solid red;
+}
+
+#minha_foto {
+  width: 20%;
+}
+
+section {
+  border: 1px solid red;
+  max-width: fit-content;
+}
+
+article {
+  border: 1px solid red;
+  max-width: fit-content;
+}
+aside {
+  border: 1px solid red;
+  max-width: 20%;
 }
