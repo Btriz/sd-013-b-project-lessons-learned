@@ -24,8 +24,9 @@ section {
 
 article {
   border: 1px solid red;
-  max-width: fit-content;
+  max-width: 70%;
 }
+
 aside {
   border: 1px solid red;
   max-width: 20%;
