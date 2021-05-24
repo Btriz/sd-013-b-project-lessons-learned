@@ -23,14 +23,14 @@ body {
   text-align: left;
   font-size: 6em;
   line-height: 90%;
-  margin-left: 5%;
+  margin-left: 10%;
 }
 
 #minha_foto {
   width: 25%;
   border-radius: 100%;
   filter: grayscale(100%);
-  margin-left: 7%;
+  margin-left: 11%;
   margin-bottom: -3%;
 }
 
